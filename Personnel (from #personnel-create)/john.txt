@@ -1,0 +1,13 @@
+Name: John
+Age: 25
+Group: SCP Foundation
+Code Name: "Kon"
+Job: Security Officer 
+Clearance Level: 2
+Weight: 195 Kg
+Height: 5'4ft
+Primary Weapon: P90
+Secondary Weapon: G18
+CQC Weapon: Baton
+Tools: Helmet, with Bullet Proof Vest.
+Backstory: John was a Researcher at Site-19, then he got transfered to Site-25. He worked at Site-19 for a while, before making a D-Class Assistant friend, they played Minecraft, and they were pretty chill with one another, until a CI Raid at Site-19 happened, and John decided to move to Site-25, and worked there as a Researcher, and when he was captured by the CI, he got shot in the arm, so he decided to ask for a transfer to an Security Officer, and a New Site. So now he is here

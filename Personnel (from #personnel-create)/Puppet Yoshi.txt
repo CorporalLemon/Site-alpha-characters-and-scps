@@ -1,0 +1,10 @@
+Name: Puppet Yoshi
+GoI: The Foundation
+Height: 5’9”
+Weight: 99lbs
+Security Clearance: 5
+Codename: Yoshi
+Current Job: Researcher with safe and some euclid classes scps in the Foundation. 
+Primary Arsenal: N/A
+Research Task: To study scp behavers with people and other scps
+Other Info: Yoshi has a heart condition and because of that he will not be preforming scp tests unless given by himself or other level 5 clearance personnel

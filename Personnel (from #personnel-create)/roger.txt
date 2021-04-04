@@ -1,0 +1,12 @@
+Name roger
+Age 35
+Group scp foundation 
+Code name potato
+Job: mtf epsilon 11 member
+Clearance level 3
+Weight 180 kg
+Height 6 ft
+Primary weapon ak 47
+Secondary weapon pistol
+CQC weapon knife
+Tools bullet proof vest
